@@ -60,7 +60,7 @@ sudo apt install python3-pyqt5 curl
 ## Install
 
 ```bash
-git clone https://github.com/iamracco0n/macropad-ch57x-ubuntu-gui.git
+git clone https://github.com/iam-raccoon/macropad-ch57x-ubuntu-gui.git
 cd macropad-ch57x-ubuntu-gui
 
 ./install.sh              # downloads the ch57x-keyboard-tool binary next to padconf.py
